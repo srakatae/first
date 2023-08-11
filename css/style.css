@@ -1,0 +1,24 @@
+
+body {
+    max-width: 60%;
+    margin: 0 auto;
+    background-color: rgb(204, 202, 202);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2{
+    font-family: Arial, sans-serif;
+}
+h1 {
+    font-size: 32px;
+}
+h2 {
+    margin-top: 1.5em;
+}
+p {
+}
+figure {
+    float: right;
+}
+figcaption {
+    font-style: italic;
+}
